@@ -1,0 +1,17 @@
+Using Python3, solve the following:
+
+    Reverse a String in two different ways:
+
+        Using iteration
+
+        Using recursion
+
+    Give an example of each filter and reduce over an iterable object.
+
+
+Open questions:
+
+    Research what is available and design an error-handling tool to report errors occurring in the frontend of a system. The frontend of this system is written in JavaScript and uses a strict API to the Rails backend. 
+
+
+How would you implement this? 
